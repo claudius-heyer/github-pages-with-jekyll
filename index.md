@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "CH"
 ---
 
-I'm glad you are here. I plan to talk about ...
+So you found this place ... now what?
